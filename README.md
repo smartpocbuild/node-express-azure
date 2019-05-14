@@ -6,6 +6,7 @@ This is a Node and Express web application used to demonstrate CI/CD with Azure 
 
 ## Running and Testing Locally:
 
+[![Build Status](https://dev.azure.com/SujitNayak/node-express-azure-cicd-poc/_apis/build/status/smartpocbuild.node-express-azure?branchName=master)](https://dev.azure.com/SujitNayak/node-express-azure-cicd-poc/_build/latest?definitionId=2&branchName=master)
 You can use these commands to install, test, and run the app locally. (Not Required)
 
 ### Install
